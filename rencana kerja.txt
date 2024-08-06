@@ -6,3 +6,4 @@ framefork javascript
 -next js
 -react js
 -laravel
+-bisa berfikir logis dan kritis
