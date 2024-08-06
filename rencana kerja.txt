@@ -3,4 +3,5 @@ rencana kerja
 -belajar database
 -belajar php framefork
 -next js
--
+-react js
+
