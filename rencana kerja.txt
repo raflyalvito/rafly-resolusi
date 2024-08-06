@@ -1,8 +1,9 @@
 rencana kerja
 -belajar javascript
-angural
+framefork javascript
 -belajar database
 -belajar php framefork
 -next js
+-react js
 -laravel
-
+-bisa berfikir logis dan kritis
