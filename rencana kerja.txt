@@ -1,4 +1,6 @@
 rencana kerja
 -belajar javascript
 -belajar database
--belajar php
+-belajar php framefork
+-next js
+-
