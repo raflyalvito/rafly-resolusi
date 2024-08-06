@@ -1,7 +1,8 @@
 rencana kerja
 -belajar javascript
+framefork javascript
 -belajar database
 -belajar php framefork
 -next js
 -react js
-
+-laravel
